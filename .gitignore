@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan 16 15:01:04 2018
+
+@author: lbrito
+"""
+
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
